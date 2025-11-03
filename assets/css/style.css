@@ -484,11 +484,11 @@ main {
 }
 
 .portafolio-text p { margin-bottom: 15px; }
-
+.portafolio-text a { margin-bottom: 15px; color: var(--light-gray); font-size: var(--fs-6); font-weight: var(--fw-300);}
 
 
 /**
- * #service 
+ * #service
  */
 
 .service { margin-bottom: 35px; }
